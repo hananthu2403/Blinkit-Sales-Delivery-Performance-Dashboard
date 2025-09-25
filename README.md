@@ -26,8 +26,8 @@ To enable better decision-making for operations and marketing by creating a clea
 ---
 
 ## 📂 Files in this Repository
-- `blinkit_sales_dashboard.pbix` → Power BI dashboard file  
-- `blinkit_sales_data.csv` → Sample/mock dataset  
+- `blinkit.pbix` → Power BI dashboard file
+- `BlinkIT Grocery Data.xlsx` → Sample/mock dataset  
 - `README.md` → Project documentation  
 
 ---
